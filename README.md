@@ -3,6 +3,8 @@ Hi, I’m **maskiiw**
 ---
 
 - 👀 I’m interested in every new things.
+- ⚡️ backend developer
+- 🔥 AI developer 
 - 🌱 I’m currently learning ???
 - 📫 How to reach me <div id="badges">
 <a href="http://telegram.me/awmiriiw">
