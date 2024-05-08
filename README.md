@@ -15,6 +15,7 @@ Hi, I’m **maskiiw**
 
   
 - 📫 How to reach me <div id="badges">
+<a href="amirnesabi898@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=f5f5f5"></a>
 <a href="http://telegram.me/awmiriiw">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
