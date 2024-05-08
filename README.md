@@ -14,12 +14,11 @@ Hi, I’m **maskiiw**
 <a href="https://github.com/sudoerr"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=f5f5f5"></a>
 
   
-- 📫 How to reach me <div id="badges">
+- 📫 How to reach me:
+
+
 <a href="amirnesabi898@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=f5f5f5"></a>
-<a href="http://telegram.me/awmiriiw">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
+<a href="https://t.me/awmiriiw"><img alt="Telegram Profile" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=f5f5f5"></a>
 <!---
 maskiiw/maskiiw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
