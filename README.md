@@ -10,6 +10,8 @@
 
 ### 🔥 AI developer 
 
+<a href="https://github.com/maskiiw"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=f5f5f5"></a>
+
 ### 🌱 my favorites
 
 <a href="https://github.com/maskiiw"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=f5f5f5"></a>
