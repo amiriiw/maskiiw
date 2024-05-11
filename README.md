@@ -1,7 +1,4 @@
 # Hi, I’m **mask**
-
----
-
 ### 👀 I LOVE to work with every new things.
 ### ⚡️ backend developer
 
@@ -9,17 +6,14 @@
 <a href="https://github.com/maskiiw"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=f5f5f5"></a>
 
 ### 🔥 AI developer 
-
 <a href="https://github.com/maskiiw"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=f5f5f5"></a>
 
 ### 🌱 my favorites
-
 <a href="https://github.com/maskiiw"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=f5f5f5"></a>
 <a href="https://github.com/maskiiw"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=f5f5f5"></a>
 <a href="https://github.com/maskiiw"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=f5f5f5"></a>
 
 ### 📫 How to reach me:
-
 <a href="mailto:amirnesabi898@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=f5f5f5"></a>
 <a href="https://t.me/awmiriiw"><img alt="Telegram Profile" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=f5f5f5"></a>
 
