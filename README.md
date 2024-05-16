@@ -1,6 +1,8 @@
 # Hi, I’m **mask**
 👀 new things lover.
+
 ⚡️ backend developer
+
 🔥 AI developer
 
 ### 🌱 my favorites
