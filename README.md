@@ -1,7 +1,7 @@
 # Hi, I’m **mask**
- 👀 new things lover
- ⚡️ backend developer
- 🔥 AI developer
+- 👀 new things lover
+- ⚡️ backend developer
+- 🔥 AI developer
 
 ### 🌱 my favorites
 <a href="https://github.com/maskiiw"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=f5f5f5"></a>
