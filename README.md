@@ -3,7 +3,7 @@
 - ⚡️ backend developer
 - 🔥 AI developer
 
-```{python}
+```python
 from ME import *
 
 while true:
