@@ -6,7 +6,7 @@
 ```python
 from ME import *
 
-while true:
+while True:
     eat()
     code()
     sleep()
