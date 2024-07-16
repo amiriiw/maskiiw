@@ -7,9 +7,7 @@
 from ME import *
 
 while True:
-    eat()
-    code()
-    sleep()
+    try()
 ```
 
 ### 🌱 my favorites
