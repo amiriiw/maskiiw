@@ -3,6 +3,15 @@
 - ⚡️ backend developer
 - 🔥 AI developer
 
+```{python}
+from ME import *
+
+while true:
+    eat()
+    code()
+    sleep()
+```
+
 ### 🌱 my favorites
 <a href="https://github.com/amiriiw"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=f5f5f5"></a>
 <a href="https://github.com/amiriiw"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=f5f5f5"></a> 
