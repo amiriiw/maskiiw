@@ -1,6 +1,6 @@
 # Hi, I’m **Amir**
 
-> My Github Page : <a href="https://amiriiw.github.io">sudoerr.github.io</a>
+> My Github Page : <a href="https://amiriiw.github.io">amiriiw.github.io</a>
 
 - 👀 new things lover
 - ⚡️ backend developer
