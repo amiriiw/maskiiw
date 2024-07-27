@@ -1,7 +1,12 @@
 <p align="center">
- 
+ <img src="https://github.com/amiriiw/amiriiw/blob/main/imgs/backend.png" width="900" height="400"/> 
 </p align="center">
-<img src="https://github.com/amiriiw/amiriiw/blob/main/imgs/backend.png" width="900" height="400"/>
+
+<p align="center">
+ <img src="https://badges.pufler.dev/repos/amiriiw"/>
+ <img src="https://badges.pufler.dev/commits/monthly/amiriiw" />
+</p>
+
 
 # Hi, I’m **Amir**
 
