@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/amiriiw/amiriiw/blob/main/imgs/backend.png" width="900" height="300"/> 
+ <img src="https://github.com/amiriiw/amiriiw/blob/main/images/backend-img.png" width="900" height="300"/> 
 </p align="center">
 
 <p align="center">
