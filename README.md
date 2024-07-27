@@ -39,18 +39,6 @@ My Github Page : <a href="https://amiriiw.github.io">amiriiw.github.io</a>
 </p> 
 <hr>
 
-
-- 👀 new things lover
-- ⚡️ backend developer
-- 🔥 AI developer
-
-```python
-from ME import *
-
-while True:
-    try()
-```
-
 <!---
 amiriiw/amiriiw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
