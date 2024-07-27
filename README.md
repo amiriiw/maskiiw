@@ -37,9 +37,6 @@ My Github Page : <a href="https://amiriiw.github.io">amiriiw.github.io</a>
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=amiriiw&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=amiriiw&theme=redical">
-</p> 
 <hr>
 
 
