@@ -31,11 +31,11 @@ My Github Page : <a href="https://amiriiw.github.io">amiriiw.github.io</a>
 <h2 align="center">My Github Status</h2>
 <br>
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=amiriiw&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amiriiw&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=amiriiw&show_icons=true&theme=dark&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amiriiw&theme=dark">
 </p>
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=amiriiw&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=amiriiw&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
 </p> 
 <hr>
 
