@@ -7,6 +7,10 @@
  <img src="https://badges.pufler.dev/commits/monthly/amiriiw" />
 </p>
 
+<p align="center">
+My Github Page : <a href="https://amiriiw.github.io">amiriiw.github.io</a>
+</p>
+
 <h2 align="center">Skills</h2>
 <p align="center">
  <a href="https://github.com/amiriiw"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=f5f5f5"></a>
@@ -24,12 +28,20 @@
  <a href="https://t.me/awmiriiw"><img alt="Telegram Profile" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=f5f5f5"></a>
 </p>
 
+<h2 align="center">My Github Status</h2>
+<br>
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=amiriiw&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amiriiw&theme=radical">
+</p>
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=amiriiw&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=amiriiw&theme=redical">
+</p> 
+<hr>
 
-
-
-# Hi, I’m **Amir**
-
-> My Github Page : <a href="https://amiriiw.github.io">amiriiw.github.io</a>
 
 - 👀 new things lover
 - ⚡️ backend developer
@@ -41,11 +53,6 @@ from ME import *
 while True:
     try()
 ```
-
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=amiriiw&mode=weekly&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiriiw&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 amiriiw/amiriiw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
