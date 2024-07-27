@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/amiriiw/amiriiw/blob/main/imgs/backend.png" width="900" height="400"/>
+<img src="https://github.com/amiriiw/amiriiw/blob/main/imgs/backend.png" width="900" height="300"/>
 
 # Hi, I’m **Amir**
 
