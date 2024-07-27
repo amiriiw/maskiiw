@@ -7,6 +7,29 @@
  <img src="https://badges.pufler.dev/commits/monthly/amiriiw" />
 </p>
 
+<h2 align="center">Skills</h2>
+<p align="center">
+ <a href="https://github.com/amiriiw"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=f5f5f5"></a>
+ <a href="https://github.com/amiriiw"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=f5f5f5"></a>
+ <a href="https://github.com/amiriiw"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=f5f5f5"></a>
+ <a href="https://github.com/amiriiw"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=f5f5f5"></a>
+ <a href="https://github.com/amiriiw"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=f5f5f5"></a> 
+ <a href="https://github.com/amiriiw"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=f5f5f5"></a> 
+ <a href="https://github.com/amiriiw"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=f5f5f5"></a>
+</p>
+
+<h2 align="center">How to reach me</h2>
+<p align="center">
+<a href="mailto: amirnesabi898@gmail.com">
+ <img src="https://img.shields.io/badge/-amiriiw-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amirnesabi898@gmail.com"/>
+</a>
+ <a href="https://t.me/awmiriiw">
+ <img src="https://img.shields.io/badge/-amiriiw-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/awmiriiw"/>
+</a>
+</p>
+
+
+
 
 # Hi, I’m **Amir**
 
